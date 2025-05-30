@@ -1,6 +1,7 @@
 # Splunk_Writeups
 
 1. Introduction to Splunk
+
 Splunk is a powerful SIEM (Security Information and Event Management) and log analysis platform that enables organizations to search, monitor, analyze, and visualize machine-generated data from various sources. It is widely used in cybersecurity for threat detection, incident response, compliance reporting, and operational intelligence.
 
 Splunk indexes logs and events, allowing security teams to perform real-time searches, set up alerts, and generate dashboards for security monitoring.
