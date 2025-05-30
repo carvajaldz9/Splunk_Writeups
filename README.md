@@ -66,3 +66,11 @@ Analyzing NetFlow, Zeek (Bro), and Suricata logs
 Identifying command-and-control (C2) beaconing
 
 
+5. Best Pratices Notes
+
+✔ Normalize logs (use CIM – Common Information Model)
+✔ Use correlation searches to detect multi-stage attacks
+✔ Leverage threat intelligence (e.g., TAXII feeds)
+✔ Set up real-time alerts for critical threats
+✔ Optimize searches (avoid * wildcards, use indexed fields)
+✔ Regularly review dashboards for trends and anomalies
